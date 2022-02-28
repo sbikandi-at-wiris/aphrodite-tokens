@@ -1,110 +1,114 @@
 {
   "Master": {
-    "color": {
-      "basic": {
-        "white": {
-          "value": "#fff",
-          "type": "color"
+    "Aphrodite": {
+      "color": {
+        "basic": {
+          "white": {
+            "value": "#fff",
+            "type": "color"
+          },
+          "text": {
+            "default": {
+              "value": "#000",
+              "type": "color",
+              "description": "Tailwind black"
+            },
+            "light": {
+              "value": "#6B7280",
+              "description": "Tailwind gray 500",
+              "type": "color"
+            }
+          },
+          "messages": {
+            "ok": {
+              "value": "#22C55E",
+              "description": "Tailwind green 500",
+              "type": "color"
+            },
+            "error": {
+              "value": "#EF4444",
+              "description": "Tailwind red 500",
+              "type": "color"
+            },
+            "info": {
+              "value": "#4B5563",
+              "description": "Tailwind gray 600",
+              "type": "color"
+            },
+            "focus": {
+              "value": "#38BDF8",
+              "description": "Tailwind sky 400",
+              "type": "color"
+            }
+          }
         },
-        "text": {
+        "accent": {
           "default": {
-            "value": "#000",
-            "type": "color",
-            "description": "Tailwind black"
+            "value": "#219c3b",
+            "type": "color"
           },
-          "light": {
-            "value": "#6B7280",
-            "description": "Tailwind gray 500",
+          "hover": {
+            "value": "#3dc45a",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "#aae1b6",
             "type": "color"
           }
         },
-        "messages": {
-          "ok": {
-            "value": "#22C55E",
-            "description": "Tailwind green 500",
+        "action": {
+          "default": {
+            "value": "#2a2929",
             "type": "color"
           },
-          "error": {
-            "value": "#EF4444",
-            "description": "Tailwind red 500",
+          "hover": {
+            "value": "#777",
             "type": "color"
           },
-          "info": {
-            "value": "#4B5563",
-            "description": "Tailwind gray 600",
-            "type": "color"
-          },
-          "focus": {
-            "value": "#38BDF8",
-            "description": "Tailwind sky 400",
+          "disabled": {
+            "value": "#d5d5d5",
             "type": "color"
           }
-        }
-      },
-      "accent": {
-        "default": {
-          "value": "#219c3b",
-          "type": "color"
-        },
-        "hover": {
-          "value": "#3dc45a",
-          "type": "color"
-        },
-        "disabled": {
-          "value": "#aae1b6",
-          "type": "color"
-        }
-      },
-      "action": {
-        "default": {
-          "value": "#2a2929",
-          "type": "color"
-        },
-        "hover": {
-          "value": "#777",
-          "type": "color"
-        },
-        "disabled": {
-          "value": "#d5d5d5",
-          "type": "color"
         }
       }
     }
   },
   "BF": {
-    "color": {
-      "accent": {
-        "default": {
-          "value": "#BE185D",
-          "type": "color",
-          "description": "Tailwind pink 700"
+    "Aphrodite": {
+      "color": {
+        "accent": {
+          "default": {
+            "value": "#BE185D",
+            "type": "color",
+            "description": "Tailwind pink 700"
+          },
+          "hover": {
+            "value": "#DB2777",
+            "type": "color",
+            "description": "Tailwind pink 600"
+          },
+          "disabled": {
+            "value": "#F9A8D4",
+            "type": "color",
+            "description": "Tailwind pink 300"
+          }
         },
-        "hover": {
-          "value": "#DB2777",
-          "type": "color",
-          "description": "Tailwind pink 600"
-        },
-        "disabled": {
-          "value": "#F9A8D4",
-          "type": "color",
-          "description": "Tailwind pink 300"
-        }
-      },
-      "action": {
-        "default": {
-          "value": "#0EA5E9",
-          "type": "color",
-          "description": "Tailwind sky 500"
-        },
-        "hover": {
-          "value": "#38BDF8",
-          "type": "color",
-          "description": "Tailwind sky 400"
-        },
-        "disabled": {
-          "value": "#7DD3FC",
-          "type": "color",
-          "description": "Tailwind sky 300"
+        "action": {
+          "default": {
+            "value": "#0EA5E9",
+            "type": "color",
+            "description": "Tailwind sky 500"
+          },
+          "hover": {
+            "value": "#38BDF8",
+            "type": "color",
+            "description": "Tailwind sky 400"
+          },
+          "disabled": {
+            "value": "#7DD3FC",
+            "type": "color",
+            "description": "Tailwind sky 300"
+          }
         }
       }
     }
