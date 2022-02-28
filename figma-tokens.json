@@ -1,94 +1,100 @@
 {
-	"Master": {
-		"color": {
-			"basic": {
-				"white": {
-					"value": "#fff",
-					"type": "color"
-				}
-			},
-			"accent": {
-				"default": {
-					"value": "#52c66b",
-					"type": "color"
-				},
-				"hover": {
-					"value": "#589f67",
-					"type": "color"
-				},
-				"disabled": {
-					"value": "#aae1b6",
-					"type": "color"
-				}
-			},
-			"action": {
-				"default": {
-					"value": "#000",
-					"type": "color"
-				},
-				"hover": {
-					"value": "#777",
-					"type": "color"
-				},
-				"disabled": {
-					"value": "#d5d5d5",
-					"type": "color"
-				}
-			}
-		},
-		"size": {
-			"xs": {
-				"value": "1",
-				"type": "sizing"
-			},
-			"sm": {
-				"value": "2",
-				"type": "sizing"
-			},
-			"base": {
-				"value": "3",
-				"type": "sizing"
-			},
-			"l": {
-				"value": "4",
-				"type": "sizing"
-			},
-			"xl": {
-				"value": "5",
-				"type": "sizing"
-			}
-		}
-	},
-	"BF": {
-		"color": {
-			"accent": {
-				"default": {
-					"value": "#e41bed",
-					"type": "color"
-				},
-				"hover": {
-					"value": "#d10aa9",
-					"type": "color"
-				},
-				"disabled": {
-					"value": "#f8bcf2",
-					"type": "color"
-				}
-			},
-			"action": {
-				"default": {
-					"value": "#0EA5E9",
-					"type": "color"
-				},
-				"hover": {
-					"value": "#38BDF8",
-					"type": "color"
-				},
-				"disabled": {
-					"value": "#7DD3FC",
-					"type": "color"
-				}
-			}
-		}
-	}
+  "Master": {
+    "color": {
+      "basic": {
+        "white": {
+          "value": "#fff",
+          "type": "color"
+        }
+      },
+      "accent": {
+        "default": {
+          "value": "#52c66b",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#589f67",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "#aae1b6",
+          "type": "color"
+        }
+      },
+      "action": {
+        "default": {
+          "value": "#000",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#777",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "#d5d5d5",
+          "type": "color"
+        }
+      }
+    },
+    "size": {
+      "xs": {
+        "value": "1",
+        "type": "sizing"
+      },
+      "sm": {
+        "value": "2",
+        "type": "sizing"
+      },
+      "base": {
+        "value": "3",
+        "type": "sizing"
+      },
+      "l": {
+        "value": "4",
+        "type": "sizing"
+      },
+      "xl": {
+        "value": "5",
+        "type": "sizing"
+      }
+    }
+  },
+  "BF": {
+    "color": {
+      "accent": {
+        "default": {
+          "value": "#BE185D",
+          "type": "color",
+          "description": "Tailwind pink 700"
+        },
+        "hover": {
+          "value": "#DB2777",
+          "type": "color",
+          "description": "Tailwind pink 600"
+        },
+        "disabled": {
+          "value": "#F9A8D4",
+          "type": "color",
+          "description": "Tailwind pink 300"
+        }
+      },
+      "action": {
+        "default": {
+          "value": "#0EA5E9",
+          "type": "color",
+          "description": "Tailwind sky 500"
+        },
+        "hover": {
+          "value": "#38BDF8",
+          "type": "color",
+          "description": "Tailwind sky 400"
+        },
+        "disabled": {
+          "value": "#7DD3FC",
+          "type": "color",
+          "description": "Tailwind sky 300"
+        }
+      }
+    }
+  }
 }
