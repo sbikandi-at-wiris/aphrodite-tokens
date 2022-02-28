@@ -69,28 +69,6 @@
           "type": "color"
         }
       }
-    },
-    "size": {
-      "xs": {
-        "value": "1",
-        "type": "sizing"
-      },
-      "sm": {
-        "value": "2",
-        "type": "sizing"
-      },
-      "base": {
-        "value": "3",
-        "type": "sizing"
-      },
-      "l": {
-        "value": "4",
-        "type": "sizing"
-      },
-      "xl": {
-        "value": "5",
-        "type": "sizing"
-      }
     }
   },
   "BF": {
