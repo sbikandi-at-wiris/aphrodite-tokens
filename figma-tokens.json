@@ -5,6 +5,40 @@
         "white": {
           "value": "#fff",
           "type": "color"
+        },
+        "text": {
+          "default": {
+            "value": "#000",
+            "type": "color",
+            "description": "Tailwind black"
+          },
+          "light": {
+            "value": "#6B7280",
+            "description": "Tailwind gray 500",
+            "type": "color"
+          }
+        },
+        "messages": {
+          "ok": {
+            "value": "#22C55E",
+            "description": "Tailwind green 500",
+            "type": "color"
+          },
+          "error": {
+            "value": "#EF4444",
+            "description": "Tailwind red 500",
+            "type": "color"
+          },
+          "info": {
+            "value": "#4B5563",
+            "description": "Tailwind gray 600",
+            "type": "color"
+          },
+          "focus": {
+            "value": "#38BDF8",
+            "description": "Tailwind sky 400",
+            "type": "color"
+          }
         }
       },
       "accent": {
@@ -23,7 +57,7 @@
       },
       "action": {
         "default": {
-          "value": "#000",
+          "value": "#2a2929",
           "type": "color"
         },
         "hover": {
