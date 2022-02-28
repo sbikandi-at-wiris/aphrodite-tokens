@@ -9,11 +9,11 @@
       },
       "accent": {
         "default": {
-          "value": "#52c66b",
+          "value": "#219c3b",
           "type": "color"
         },
         "hover": {
-          "value": "#589f67",
+          "value": "#3dc45a",
           "type": "color"
         },
         "disabled": {
