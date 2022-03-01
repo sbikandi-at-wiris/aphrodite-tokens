@@ -4,7 +4,7 @@
       "color": {
         "basic": {
           "white": {
-            "value": "#fff",
+            "value": "#445544",
             "type": "color"
           },
           "text": {
@@ -71,6 +71,11 @@
           }
         }
       }
+    },
+    "s": {
+      "value": "2px",
+      "description": "asdasd",
+      "type": "sizing"
     }
   },
   "BF": {
