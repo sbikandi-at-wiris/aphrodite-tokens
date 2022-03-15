@@ -11,33 +11,33 @@
             "default": {
               "value": "#000",
               "type": "color",
-              "description": "Tailwind black"
+              "description": "black"
             },
             "light": {
               "value": "#6B7280",
-              "description": "Tailwind gray 500",
+              "description": "gray-500",
               "type": "color"
             }
           },
           "messages": {
             "ok": {
               "value": "#22C55E",
-              "description": "Tailwind green 500",
+              "description": "green-500",
               "type": "color"
             },
             "error": {
               "value": "#EF4444",
-              "description": "Tailwind red 500",
+              "description": "red-500",
               "type": "color"
             },
             "info": {
               "value": "#4B5563",
-              "description": "Tailwind gray 600",
+              "description": "gray-600",
               "type": "color"
             },
             "focus": {
               "value": "#38BDF8",
-              "description": "Tailwind sky 400",
+              "description": "sky-400",
               "type": "color"
             }
           }
