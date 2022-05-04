@@ -190,7 +190,7 @@
       "color": {
         "accent": {
           "default": {
-            "value": "#ea580c",
+            "value": "{base.color.accent.600}",
             "type": "color",
             "description": "{base.color.accent.600}"
           },
@@ -365,7 +365,7 @@
       "color": {
         "accent": {
           "default": {
-            "value": "#db2777",
+            "value": "{base.color.accent.600}",
             "type": "color",
             "description": "{base.color.accent.600}"
           },
