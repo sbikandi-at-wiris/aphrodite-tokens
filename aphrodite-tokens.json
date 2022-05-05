@@ -334,7 +334,7 @@
             "type": "spacing"
           }
         },
-        "l": {
+        "lg": {
           "x": {
             "value": "{_base.space.4}",
             "type": "spacing"
