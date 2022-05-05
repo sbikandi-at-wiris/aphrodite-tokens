@@ -230,6 +230,16 @@
           "value": "28",
           "type": "spacing",
           "description": "7"
+        },
+        "8": {
+          "value": "32",
+          "type": "spacing",
+          "description": "8"
+        },
+        "9": {
+          "value": "36",
+          "type": "spacing",
+          "description": "9"
         }
       }
     },
@@ -372,7 +382,7 @@
     }
   },
   "BF": {
-    "base": {
+    "_base": {
       "color": {
         "accent": {
           "50": {
@@ -484,7 +494,7 @@
       "color": {
         "accent": {
           "default": {
-            "value": "{base.color.accent.600}",
+            "value": "{_base.color.accent.600}",
             "type": "color",
             "description": "{base.color.accent.600}"
           },
@@ -503,19 +513,19 @@
         },
         "brand": {
           "default": {
-            "value": "{base.color.brand.800}",
+            "value": "{_base.color.brand.800}",
             "type": "color"
           },
           "light": {
-            "value": "{base.color.brand.100}",
+            "value": "{_base.color.brand.100}",
             "type": "color"
           },
           "hover": {
-            "value": "{base.color.brand.700}",
+            "value": "{_base.color.brand.700}",
             "type": "color"
           },
           "disabled": {
-            "value": "{base.color.brand.300}",
+            "value": "{_base.color.brand.300}",
             "type": "color"
           }
         }
@@ -523,7 +533,7 @@
     }
   },
   "MT": {
-    "base": {
+    "_base": {
       "color": {
         "accent": {
           "50": {
@@ -635,7 +645,7 @@
       "color": {
         "accent": {
           "default": {
-            "value": "{base.color.accent.600}",
+            "value": "{_base.color.accent.600}",
             "type": "color"
           },
           "light": {
@@ -653,19 +663,19 @@
         },
         "brand": {
           "default": {
-            "value": "{base.color.brand.700}",
+            "value": "{_base.color.brand.700}",
             "type": "color"
           },
           "light": {
-            "value": "{base.color.brand.100}",
+            "value": "{_base.color.brand.100}",
             "type": "color"
           },
           "hover": {
-            "value": "{base.color.brand.800}",
+            "value": "{_base.color.brand.800}",
             "type": "color"
           },
           "disabled": {
-            "value": "{base.color.brand.300}",
+            "value": "{_base.color.brand.300}",
             "type": "color"
           }
         }
@@ -673,7 +683,7 @@
     }
   },
   "LL": {
-    "base": {
+    "_base": {
       "color": {
         "accent": {
           "50": {
@@ -785,7 +795,7 @@
       "color": {
         "accent": {
           "default": {
-            "value": "{base.color.accent.600}",
+            "value": "{_base.color.accent.600}",
             "type": "color"
           },
           "light": {
@@ -803,19 +813,19 @@
         },
         "brand": {
           "default": {
-            "value": "{base.color.brand.700}",
+            "value": "{_base.color.brand.700}",
             "type": "color"
           },
           "light": {
-            "value": "{base.color.brand.100}",
+            "value": "{_base.color.brand.100}",
             "type": "color"
           },
           "hover": {
-            "value": "{base.color.brand.600}",
+            "value": "{_base.color.brand.600}",
             "type": "color"
           },
           "disabled": {
-            "value": "{base.color.brand.300}",
+            "value": "{_base.color.brand.300}",
             "type": "color"
           }
         }
