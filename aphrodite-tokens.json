@@ -293,11 +293,11 @@
       },
       "space": {
         "xs": {
-          "x": {
+          "padding_x": {
             "value": "{_base.size.2}",
             "type": "spacing"
           },
-          "y": {
+          "padding_y": {
             "value": "{_base.size.1}",
             "type": "spacing"
           },
@@ -307,11 +307,11 @@
           }
         },
         "sm": {
-          "x": {
+          "padding_x": {
             "value": "{_base.size.3}",
             "type": "spacing"
           },
-          "y": {
+          "padding_y": {
             "value": "{_base.size.2}",
             "type": "spacing"
           },
@@ -321,11 +321,11 @@
           }
         },
         "base": {
-          "x": {
+          "padding_x": {
             "value": "{_base.size.4}",
             "type": "spacing"
           },
-          "y": {
+          "padding_y": {
             "value": "{_base.size.2}",
             "type": "spacing"
           },
@@ -335,11 +335,11 @@
           }
         },
         "lg": {
-          "x": {
+          "padding_x": {
             "value": "{_base.size.4}",
             "type": "spacing"
           },
-          "y": {
+          "padding_y": {
             "value": "{_base.size.3}",
             "type": "spacing"
           },
@@ -349,11 +349,11 @@
           }
         },
         "xl": {
-          "x": {
+          "padding_x": {
             "value": "{_base.size.6}",
             "type": "spacing"
           },
-          "y": {
+          "padding_y": {
             "value": "{_base.size.3}",
             "type": "spacing"
           },
