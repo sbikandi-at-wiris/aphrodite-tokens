@@ -349,16 +349,12 @@
           }
         },
         "xl": {
-          "y": {
-            "value": "{_base.size.3}",
-            "type": "spacing"
-          }
-        }
-      },
-      "size": {
-        "xl": {
           "x": {
             "value": "{_base.size.6}",
+            "type": "spacing"
+          },
+          "y": {
+            "value": "{_base.size.3}",
             "type": "spacing"
           },
           "gap": {
