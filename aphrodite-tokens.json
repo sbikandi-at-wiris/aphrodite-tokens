@@ -379,17 +379,17 @@
           "type": "color"
         }
       },
-      "space": {
+      "padding": {
         "value": "{_base.space.4}",
         "type": "spacing",
         "description": "3"
       },
       "gap": {
-        "value": "{_base.space.4}",
+        "value": "{_base.space.2}",
         "type": "spacing"
       },
       "radius": {
-        "value": "{_base.space.9}",
+        "value": "{_base.space.2}",
         "type": "borderRadius"
       }
     }
