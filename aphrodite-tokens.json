@@ -378,6 +378,19 @@
           "value": "{_base.color.neutral.400}",
           "type": "color"
         }
+      },
+      "space": {
+        "value": "{_base.space.4}",
+        "type": "spacing",
+        "description": "3"
+      },
+      "gap": {
+        "value": "{_base.space.4}",
+        "type": "spacing"
+      },
+      "radius": {
+        "value": "{_base.space.9}",
+        "type": "borderRadius"
       }
     }
   },
