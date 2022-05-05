@@ -185,7 +185,7 @@
           }
         }
       },
-      "space": {
+      "size": {
         "0": {
           "5": {
             "value": "2",
@@ -294,71 +294,75 @@
       "space": {
         "xs": {
           "x": {
-            "value": "{_base.space.2}",
+            "value": "{_base.size.2}",
             "type": "spacing"
           },
           "y": {
-            "value": "{_base.space.1}",
+            "value": "{_base.size.1}",
             "type": "spacing"
           },
           "gap": {
-            "value": "{_base.space.1}",
+            "value": "{_base.size.1}",
             "type": "spacing"
           }
         },
         "sm": {
           "x": {
-            "value": "{_base.space.3}",
+            "value": "{_base.size.3}",
             "type": "spacing"
           },
           "y": {
-            "value": "{_base.space.2}",
+            "value": "{_base.size.2}",
             "type": "spacing"
           },
           "gap": {
-            "value": "{_base.space.2}",
+            "value": "{_base.size.2}",
             "type": "spacing"
           }
         },
         "base": {
           "x": {
-            "value": "{_base.space.4}",
+            "value": "{_base.size.4}",
             "type": "spacing"
           },
           "y": {
-            "value": "{_base.space.2}",
+            "value": "{_base.size.2}",
             "type": "spacing"
           },
           "gap": {
-            "value": "{_base.space.2}",
+            "value": "{_base.size.2}",
             "type": "spacing"
           }
         },
         "lg": {
           "x": {
-            "value": "{_base.space.4}",
+            "value": "{_base.size.4}",
             "type": "spacing"
           },
           "y": {
-            "value": "{_base.space.3}",
+            "value": "{_base.size.3}",
             "type": "spacing"
           },
           "gap": {
-            "value": "{_base.space.3}",
+            "value": "{_base.size.3}",
             "type": "spacing"
           }
         },
         "xl": {
-          "x": {
-            "value": "{_base.space.6}",
-            "type": "spacing"
-          },
           "y": {
-            "value": "{_base.space.3}",
+            "value": "{_base.size.3}",
+            "type": "spacing"
+          }
+        }
+      },
+      "size": {
+        "xl": {
+          "x": {
+            "value": "{_base.size.6}",
             "type": "spacing"
           },
           "gap": {
-            "value": "{_base.space.3}",
+            "value": "{_base.size.3}",
             "type": "spacing"
           }
         }
@@ -380,16 +384,16 @@
         }
       },
       "padding": {
-        "value": "{_base.space.4}",
+        "value": "{_base.size.4}",
         "type": "spacing",
         "description": "3"
       },
       "gap": {
-        "value": "{_base.space.2}",
+        "value": "{_base.size.2}",
         "type": "spacing"
       },
       "radius": {
-        "value": "{_base.space.2}",
+        "value": "{_base.size.2}",
         "type": "borderRadius"
       }
     }
