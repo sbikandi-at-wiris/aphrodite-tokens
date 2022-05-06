@@ -7,8 +7,8 @@
           "type": "color"
         },
         "focus": {
-          "value": "#38bdf8",
-          "description": "sky-400",
+          "value": "#7dd3fc",
+          "description": "sky-300",
           "type": "color"
         },
         "accent": {
