@@ -722,16 +722,16 @@
             "value": "{_base.color.accent.600}",
             "type": "color"
           },
-          "light": {
-            "value": "{_base.color.accent.100}",
-            "type": "color"
-          },
           "hover": {
             "value": "{_base.color.accent.500}",
             "type": "color"
           },
           "disabled": {
             "value": "{_base.color.accent.300}",
+            "type": "color"
+          },
+          "light": {
+            "value": "{_base.color.accent.100}",
             "type": "color"
           }
         },
@@ -740,16 +740,16 @@
             "value": "{_base.color.brand.700}",
             "type": "color"
           },
-          "light": {
-            "value": "{_base.color.brand.100}",
-            "type": "color"
-          },
           "hover": {
             "value": "{_base.color.brand.800}",
             "type": "color"
           },
           "disabled": {
             "value": "{_base.color.brand.300}",
+            "type": "color"
+          },
+          "light": {
+            "value": "{_base.color.brand.100}",
             "type": "color"
           }
         }
@@ -872,16 +872,16 @@
             "value": "{_base.color.accent.600}",
             "type": "color"
           },
-          "light": {
-            "value": "{_base.color.accent.100}",
-            "type": "color"
-          },
           "hover": {
             "value": "{_base.color.accent.500}",
             "type": "color"
           },
           "disabled": {
             "value": "{_base.color.accent.300}",
+            "type": "color"
+          },
+          "light": {
+            "value": "{_base.color.accent.100}",
             "type": "color"
           }
         },
@@ -890,16 +890,16 @@
             "value": "{_base.color.brand.700}",
             "type": "color"
           },
-          "light": {
-            "value": "{_base.color.brand.100}",
-            "type": "color"
-          },
           "hover": {
             "value": "{_base.color.brand.600}",
             "type": "color"
           },
           "disabled": {
             "value": "{_base.color.brand.300}",
+            "type": "color"
+          },
+          "light": {
+            "value": "{_base.color.brand.100}",
             "type": "color"
           }
         }
