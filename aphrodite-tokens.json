@@ -458,7 +458,7 @@
             "description": "pink-900"
           }
         },
-        "brand": {
+        "brand1": {
           "50": {
             "value": "#eff6ff",
             "type": "color",
@@ -509,6 +509,58 @@
             "type": "color",
             "description": "blue-900"
           }
+        },
+        "brand2": {
+          "50": {
+            "value": "#f0f9ff",
+            "type": "color",
+            "description": "sky-50"
+          },
+          "100": {
+            "value": "#e0f2fe",
+            "type": "color",
+            "description": "sky-100"
+          },
+          "200": {
+            "value": "#bae6fd",
+            "type": "color",
+            "description": "sky-200"
+          },
+          "300": {
+            "value": "#7dd3fc",
+            "type": "color",
+            "description": "sky-300"
+          },
+          "400": {
+            "value": "#38bdf8",
+            "type": "color",
+            "description": "sky-400"
+          },
+          "500": {
+            "value": "#0ea5e9",
+            "type": "color",
+            "description": "sky-500"
+          },
+          "600": {
+            "value": "#0284c7",
+            "type": "color",
+            "description": "sky-600"
+          },
+          "700": {
+            "value": "#0369a1",
+            "type": "color",
+            "description": "sky-700"
+          },
+          "800": {
+            "value": "#075985",
+            "type": "color",
+            "description": "sky-800"
+          },
+          "900": {
+            "value": "#0c4a6e",
+            "type": "color",
+            "description": "sky-900"
+          }
         }
       }
     },
@@ -520,10 +572,6 @@
             "type": "color",
             "description": "{base.color.accent.600}"
           },
-          "light": {
-            "value": "{_base.color.accent.100}",
-            "type": "color"
-          },
           "hover": {
             "value": "{_base.color.accent.500}",
             "type": "color"
@@ -531,23 +579,27 @@
           "disabled": {
             "value": "{_base.color.accent.300}",
             "type": "color"
+          },
+          "light": {
+            "value": "{_base.color.accent.100}",
+            "type": "color"
           }
         },
         "brand": {
           "default": {
-            "value": "{_base.color.brand.800}",
-            "type": "color"
-          },
-          "light": {
-            "value": "{_base.color.brand.100}",
+            "value": "{_base.color.brand2.500}",
             "type": "color"
           },
           "hover": {
-            "value": "{_base.color.brand.700}",
+            "value": "{_base.color.brand2.400}",
             "type": "color"
           },
           "disabled": {
-            "value": "{_base.color.brand.300}",
+            "value": "{_base.color.brand2.200}",
+            "type": "color"
+          },
+          "light": {
+            "value": "{_base.color.brand2.100}",
             "type": "color"
           }
         }
