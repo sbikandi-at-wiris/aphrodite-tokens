@@ -241,6 +241,11 @@
           "type": "spacing",
           "description": "9"
         }
+      },
+      "radius": {
+        "value": "4",
+        "type": "borderRadius",
+        "description": "rounded"
       }
     },
     "abutton": {
@@ -362,6 +367,10 @@
             "type": "spacing"
           }
         }
+      },
+      "radius": {
+        "value": "{_base.radius}",
+        "type": "borderRadius"
       }
     },
     "abubbletour": {
