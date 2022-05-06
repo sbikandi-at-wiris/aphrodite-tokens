@@ -326,7 +326,7 @@
             "type": "spacing"
           },
           "padding_y": {
-            "value": "{_base.size.2}",
+            "value": "{_base.size.3}",
             "type": "spacing"
           },
           "gap": {
@@ -340,11 +340,11 @@
             "type": "spacing"
           },
           "padding_y": {
-            "value": "{_base.size.3}",
+            "value": "{_base.size.4}",
             "type": "spacing"
           },
           "gap": {
-            "value": "{_base.size.3}",
+            "value": "{_base.size.2}",
             "type": "spacing"
           }
         },
@@ -354,11 +354,11 @@
             "type": "spacing"
           },
           "padding_y": {
-            "value": "{_base.size.3}",
+            "value": "{_base.size.4}",
             "type": "spacing"
           },
           "gap": {
-            "value": "{_base.size.3}",
+            "value": "{_base.size.2}",
             "type": "spacing"
           }
         }
