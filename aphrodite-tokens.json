@@ -130,6 +130,10 @@
             "value": "{base.size.2}",
             "type": "spacing"
           }
+        },
+        "onlyIcon": {
+          "value": "{base.size.2}",
+          "type": "spacing"
         }
       }
     },
