@@ -184,63 +184,6 @@
             "description": "gray-600"
           }
         }
-      },
-      "size": {
-        "0": {
-          "5": {
-            "value": "2",
-            "type": "spacing",
-            "description": "0.5"
-          },
-          "value": "0",
-          "type": "spacing",
-          "description": "0"
-        },
-        "1": {
-          "value": "4",
-          "type": "spacing",
-          "description": "1"
-        },
-        "2": {
-          "value": "8",
-          "type": "spacing",
-          "description": "2"
-        },
-        "3": {
-          "value": "12",
-          "type": "spacing",
-          "description": "3"
-        },
-        "4": {
-          "value": "16",
-          "type": "spacing",
-          "description": "4"
-        },
-        "5": {
-          "value": "20",
-          "type": "spacing",
-          "description": "5"
-        },
-        "6": {
-          "value": "24",
-          "type": "spacing",
-          "description": "6"
-        },
-        "7": {
-          "value": "28",
-          "type": "spacing",
-          "description": "7"
-        },
-        "8": {
-          "value": "32",
-          "type": "spacing",
-          "description": "8"
-        },
-        "9": {
-          "value": "36",
-          "type": "spacing",
-          "description": "9"
-        }
       }
     },
     "abutton": {
@@ -289,78 +232,6 @@
           "value": "{base.color.surface}",
           "type": "color"
         }
-      },
-      "space": {
-        "xs": {
-          "padding_x": {
-            "value": "{base.size.2}",
-            "type": "spacing"
-          },
-          "padding_y": {
-            "value": "{base.size.1}",
-            "type": "spacing"
-          },
-          "gap": {
-            "value": "{base.size.1}",
-            "type": "spacing"
-          }
-        },
-        "sm": {
-          "padding_x": {
-            "value": "{base.size.3}",
-            "type": "spacing"
-          },
-          "padding_y": {
-            "value": "{base.size.2}",
-            "type": "spacing"
-          },
-          "gap": {
-            "value": "{base.size.2}",
-            "type": "spacing"
-          }
-        },
-        "base": {
-          "padding_x": {
-            "value": "{base.size.4}",
-            "type": "spacing"
-          },
-          "padding_y": {
-            "value": "{base.size.3}",
-            "type": "spacing"
-          },
-          "gap": {
-            "value": "{base.size.2}",
-            "type": "spacing"
-          }
-        },
-        "lg": {
-          "padding_x": {
-            "value": "{base.size.4}",
-            "type": "spacing"
-          },
-          "padding_y": {
-            "value": "{base.size.4}",
-            "type": "spacing"
-          },
-          "gap": {
-            "value": "{base.size.2}",
-            "type": "spacing"
-          }
-        },
-        "xl": {
-          "padding_x": {
-            "value": "{base.size.6}",
-            "type": "spacing"
-          },
-          "padding_y": {
-            "value": "{base.size.4}",
-            "type": "spacing"
-          },
-          "gap": {
-            "value": "{base.size.2}",
-            "type": "spacing"
-          }
-        }
       }
     },
     "abubbletour": {
@@ -377,19 +248,6 @@
           "value": "{base.color.neutral.400}",
           "type": "color"
         }
-      },
-      "padding": {
-        "value": "{base.size.4}",
-        "type": "spacing",
-        "description": "3"
-      },
-      "gap": {
-        "value": "{base.size.2}",
-        "type": "spacing"
-      },
-      "radius": {
-        "value": "{base.size.2}",
-        "type": "borderRadius"
       }
     }
   },
