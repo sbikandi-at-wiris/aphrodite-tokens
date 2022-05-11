@@ -403,6 +403,26 @@
           "type": "color"
         }
       }
+    },
+    "atoolbar": {
+      "color": {
+        "background": {
+          "value": "{base.color.neutral.700}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{base.color.surface}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{base.color.neutral.500}",
+          "type": "color"
+        },
+        "selected": {
+          "value": "{base.color.brand.400}",
+          "type": "color"
+        }
+      }
     }
   },
   "BF": {
