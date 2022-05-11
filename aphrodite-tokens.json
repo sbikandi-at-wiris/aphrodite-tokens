@@ -423,6 +423,26 @@
           "type": "color"
         }
       }
+    },
+    "abadge": {
+      "color": {
+        "surface": {
+          "value": "{base.color.neutral.900}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{base.color.neutral.500}",
+          "type": "color"
+        },
+        "default": {
+          "value": "{base.color.surface}",
+          "type": "color"
+        },
+        "selected": {
+          "value": "{base.color.brand.400}",
+          "type": "color"
+        }
+      }
     }
   },
   "BF": {
