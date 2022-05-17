@@ -425,6 +425,58 @@
           "description": "green-900"
         }
       },
+      "emerald": {
+        "50": {
+          "value": "#ecfdf5",
+          "type": "color",
+          "description": "emerald-50"
+        },
+        "100": {
+          "value": "#d1fae5",
+          "type": "color",
+          "description": "emerald-100"
+        },
+        "200": {
+          "value": "#a7f3d0",
+          "type": "color",
+          "description": "emerald-200"
+        },
+        "300": {
+          "value": "#6ee7b7",
+          "type": "color",
+          "description": "emerald-300"
+        },
+        "400": {
+          "value": "#34d399",
+          "type": "color",
+          "description": "emerald-400"
+        },
+        "500": {
+          "value": "#10b981",
+          "type": "color",
+          "description": "emerald-500"
+        },
+        "600": {
+          "value": "#059669",
+          "type": "color",
+          "description": "emerald-600"
+        },
+        "700": {
+          "value": "#047857",
+          "type": "color",
+          "description": "emerald-700"
+        },
+        "800": {
+          "value": "#065f46",
+          "type": "color",
+          "description": "emerald-800"
+        },
+        "900": {
+          "value": "#064e3b",
+          "type": "color",
+          "description": "emerald-900"
+        }
+      },
       "teal": {
         "50": {
           "value": "#f0fdfa",
