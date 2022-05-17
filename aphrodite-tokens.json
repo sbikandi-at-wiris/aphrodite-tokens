@@ -736,6 +736,58 @@
           "type": "color",
           "description": "fuchsia-900"
         }
+      },
+      "pink": {
+        "50": {
+          "value": "#fdf2f8",
+          "type": "color",
+          "description": "pink-50"
+        },
+        "100": {
+          "value": "#fce7f3",
+          "type": "color",
+          "description": "pink-100"
+        },
+        "200": {
+          "value": "#fbcfe8",
+          "type": "color",
+          "description": "pink-200"
+        },
+        "300": {
+          "value": "#f9a8d4",
+          "type": "color",
+          "description": "pink-300"
+        },
+        "400": {
+          "value": "#f472b6",
+          "type": "color",
+          "description": "pink-400"
+        },
+        "500": {
+          "value": "#ec4899",
+          "type": "color",
+          "description": "pink-500"
+        },
+        "600": {
+          "value": "#db2777",
+          "type": "color",
+          "description": "pink-600"
+        },
+        "700": {
+          "value": "#be185d",
+          "type": "color",
+          "description": "pink-700"
+        },
+        "800": {
+          "value": "#9d174d",
+          "type": "color",
+          "description": "pink-800"
+        },
+        "900": {
+          "value": "#831843",
+          "type": "color",
+          "description": "pink-900"
+        }
       }
     }
   },
