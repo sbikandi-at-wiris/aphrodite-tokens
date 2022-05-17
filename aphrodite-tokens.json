@@ -684,6 +684,58 @@
           "type": "color",
           "description": "purple-900"
         }
+      },
+      "fuchsia": {
+        "50": {
+          "value": "#fdf4ff",
+          "type": "color",
+          "description": "fuchsia-50"
+        },
+        "100": {
+          "value": "#fae8ff",
+          "type": "color",
+          "description": "fuchsia-100"
+        },
+        "200": {
+          "value": "#f5d0fe",
+          "type": "color",
+          "description": "fuchsia-200"
+        },
+        "300": {
+          "value": "#f0abfc",
+          "type": "color",
+          "description": "fuchsia-300"
+        },
+        "400": {
+          "value": "#e879f9",
+          "type": "color",
+          "description": "fuchsia-400"
+        },
+        "500": {
+          "value": "#d946ef",
+          "type": "color",
+          "description": "fuchsia-500"
+        },
+        "600": {
+          "value": "#c026d3",
+          "type": "color",
+          "description": "fuchsia-600"
+        },
+        "700": {
+          "value": "#a21caf",
+          "type": "color",
+          "description": "fuchsia-700"
+        },
+        "800": {
+          "value": "#86198f",
+          "type": "color",
+          "description": "fuchsia-800"
+        },
+        "900": {
+          "value": "#701a75",
+          "type": "color",
+          "description": "fuchsia-900"
+        }
       }
     }
   },
