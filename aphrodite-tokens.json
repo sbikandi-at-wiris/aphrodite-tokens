@@ -632,6 +632,58 @@
           "type": "color",
           "description": "violet-900"
         }
+      },
+      "purple": {
+        "50": {
+          "value": "#faf5ff",
+          "type": "color",
+          "description": "purple-50"
+        },
+        "100": {
+          "value": "#f3e8ff",
+          "type": "color",
+          "description": "purple-100"
+        },
+        "200": {
+          "value": "#e9d5ff",
+          "type": "color",
+          "description": "purple-200"
+        },
+        "300": {
+          "value": "#d8b4fe",
+          "type": "color",
+          "description": "purple-300"
+        },
+        "400": {
+          "value": "#c084fc",
+          "type": "color",
+          "description": "purple-400"
+        },
+        "500": {
+          "value": "#a855f7",
+          "type": "color",
+          "description": "purple-500"
+        },
+        "600": {
+          "value": "#9333ea",
+          "type": "color",
+          "description": "purple-600"
+        },
+        "700": {
+          "value": "#7e22ce",
+          "type": "color",
+          "description": "purple-700"
+        },
+        "800": {
+          "value": "#6b21a8",
+          "type": "color",
+          "description": "purple-800"
+        },
+        "900": {
+          "value": "#581c87",
+          "type": "color",
+          "description": "purple-900"
+        }
       }
     }
   },
