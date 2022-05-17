@@ -113,6 +113,58 @@
           "description": "gray-900"
         }
       },
+      "stone": {
+        "50": {
+          "value": "#fafaf9",
+          "type": "color",
+          "description": "stone-50"
+        },
+        "100": {
+          "value": "#f5f5f4",
+          "type": "color",
+          "description": "stone-100"
+        },
+        "200": {
+          "value": "#e7e5e4",
+          "type": "color",
+          "description": "stone-200"
+        },
+        "300": {
+          "value": "#d6d3d1",
+          "type": "color",
+          "description": "stone-300"
+        },
+        "400": {
+          "value": "#a8a29e",
+          "type": "color",
+          "description": "stone-400"
+        },
+        "500": {
+          "value": "#78716c",
+          "type": "color",
+          "description": "stone-500"
+        },
+        "600": {
+          "value": "#57534e",
+          "type": "color",
+          "description": "stone-600"
+        },
+        "700": {
+          "value": "#44403c",
+          "type": "color",
+          "description": "stone-700"
+        },
+        "800": {
+          "value": "#292524",
+          "type": "color",
+          "description": "stone-800"
+        },
+        "900": {
+          "value": "#1c1917",
+          "type": "color",
+          "description": "stone-900"
+        }
+      },
       "red": {
         "50": {
           "value": "#fef2f2",
