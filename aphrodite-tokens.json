@@ -217,6 +217,58 @@
           "description": "orange-900"
         }
       },
+      "amber": {
+        "50": {
+          "value": "#fffbeb",
+          "type": "color",
+          "description": "amber-50"
+        },
+        "100": {
+          "value": "#fef3c7",
+          "type": "color",
+          "description": "amber-100"
+        },
+        "200": {
+          "value": "#fde68a",
+          "type": "color",
+          "description": "amber-200"
+        },
+        "300": {
+          "value": "#fcd34d",
+          "type": "color",
+          "description": "amber-300"
+        },
+        "400": {
+          "value": "#fbbf24",
+          "type": "color",
+          "description": "amber-400"
+        },
+        "500": {
+          "value": "#f59e0b",
+          "type": "color",
+          "description": "amber-500"
+        },
+        "600": {
+          "value": "#d97706",
+          "type": "color",
+          "description": "amber-600"
+        },
+        "700": {
+          "value": "#b45309",
+          "type": "color",
+          "description": "amber-700"
+        },
+        "800": {
+          "value": "#92400e",
+          "type": "color",
+          "description": "amber-800"
+        },
+        "900": {
+          "value": "#78350f",
+          "type": "color",
+          "description": "amber-900"
+        }
+      },
       "yellow": {
         "50": {
           "value": "#fefce8",
