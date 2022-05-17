@@ -788,6 +788,58 @@
           "type": "color",
           "description": "pink-900"
         }
+      },
+      "rose": {
+        "50": {
+          "value": "#fff1f2",
+          "type": "color",
+          "description": "rose-50"
+        },
+        "100": {
+          "value": "#ffe4e6",
+          "type": "color",
+          "description": "rose-100"
+        },
+        "200": {
+          "value": "#fecdd3",
+          "type": "color",
+          "description": "rose-200"
+        },
+        "300": {
+          "value": "#fda4af",
+          "type": "color",
+          "description": "rose-300"
+        },
+        "400": {
+          "value": "#fb7185",
+          "type": "color",
+          "description": "rose-400"
+        },
+        "500": {
+          "value": "#f43f5e",
+          "type": "color",
+          "description": "rose-500"
+        },
+        "600": {
+          "value": "#e11d48",
+          "type": "color",
+          "description": "rose-600"
+        },
+        "700": {
+          "value": "#be123c",
+          "type": "color",
+          "description": "rose-700"
+        },
+        "800": {
+          "value": "#9f1239",
+          "type": "color",
+          "description": "rose-800"
+        },
+        "900": {
+          "value": "#881337",
+          "type": "color",
+          "description": "rose-900"
+        }
       }
     }
   },
