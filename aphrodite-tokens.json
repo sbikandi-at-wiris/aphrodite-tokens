@@ -528,6 +528,58 @@
           "type": "color",
           "description": "blue-900"
         }
+      },
+      "indigo": {
+        "50": {
+          "value": "#eef2ff",
+          "type": "color",
+          "description": "indigo-50"
+        },
+        "100": {
+          "value": "#e0e7ff",
+          "type": "color",
+          "description": "indigo-100"
+        },
+        "200": {
+          "value": "#c7d2fe",
+          "type": "color",
+          "description": "indigo-200"
+        },
+        "300": {
+          "value": "#a5b4fc",
+          "type": "color",
+          "description": "indigo-300"
+        },
+        "400": {
+          "value": "#818cf8",
+          "type": "color",
+          "description": "indigo-400"
+        },
+        "500": {
+          "value": "#6366f1",
+          "type": "color",
+          "description": "indigo-500"
+        },
+        "600": {
+          "value": "#4f46e5",
+          "type": "color",
+          "description": "indigo-600"
+        },
+        "700": {
+          "value": "#4338ca",
+          "type": "color",
+          "description": "indigo-700"
+        },
+        "800": {
+          "value": "#3730a3",
+          "type": "color",
+          "description": "indigo-800"
+        },
+        "900": {
+          "value": "#312e81",
+          "type": "color",
+          "description": "indigo-900"
+        }
       }
     }
   },
