@@ -269,6 +269,110 @@
           "description": "yellow-900"
         }
       },
+      "lime": {
+        "50": {
+          "value": "#f7fee7",
+          "type": "color",
+          "description": "lime-50"
+        },
+        "100": {
+          "value": "#ecfccb",
+          "type": "color",
+          "description": "lime-100"
+        },
+        "200": {
+          "value": "#d9f99d",
+          "type": "color",
+          "description": "lime-200"
+        },
+        "300": {
+          "value": "#bef264",
+          "type": "color",
+          "description": "lime-300"
+        },
+        "400": {
+          "value": "#a3e635",
+          "type": "color",
+          "description": "lime-400"
+        },
+        "500": {
+          "value": "#84cc16",
+          "type": "color",
+          "description": "lime-500"
+        },
+        "600": {
+          "value": "#65a30d",
+          "type": "color",
+          "description": "lime-600"
+        },
+        "700": {
+          "value": "#4d7c0f",
+          "type": "color",
+          "description": "lime-700"
+        },
+        "800": {
+          "value": "#3f6212",
+          "type": "color",
+          "description": "lime-800"
+        },
+        "900": {
+          "value": "#365314",
+          "type": "color",
+          "description": "lime-900"
+        }
+      },
+      "green": {
+        "50": {
+          "value": "#f0fdf4",
+          "type": "color",
+          "description": "green-50"
+        },
+        "100": {
+          "value": "#dcfce7",
+          "type": "color",
+          "description": "green-100"
+        },
+        "200": {
+          "value": "#bbf7d0",
+          "type": "color",
+          "description": "green-200"
+        },
+        "300": {
+          "value": "#86efac",
+          "type": "color",
+          "description": "green-300"
+        },
+        "400": {
+          "value": "#4ade80",
+          "type": "color",
+          "description": "green-400"
+        },
+        "500": {
+          "value": "#22c55e",
+          "type": "color",
+          "description": "green-500"
+        },
+        "600": {
+          "value": "#16a34a",
+          "type": "color",
+          "description": "green-600"
+        },
+        "700": {
+          "value": "#15803d",
+          "type": "color",
+          "description": "green-700"
+        },
+        "800": {
+          "value": "#166534",
+          "type": "color",
+          "description": "green-800"
+        },
+        "900": {
+          "value": "#14532d",
+          "type": "color",
+          "description": "green-900"
+        }
+      },
       "sky": {
         "50": {
           "value": "#f0f9ff",
