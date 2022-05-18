@@ -1342,21 +1342,21 @@
       "space": {
         "xs": {
           "padding_x": {
-            "value": "{core.size.2}",
+            "value": "{size.2}",
             "type": "spacing"
           },
           "padding_y": {
-            "value": "{core.size.1}",
+            "value": "{size.1}",
             "type": "spacing"
           },
           "gap": {
-            "value": "{core.size.1}",
+            "value": "{size.1}",
             "type": "spacing"
           }
         },
         "sm": {
           "padding_x": {
-            "value": "{core.size.3}",
+            "value": "{size.3}",
             "type": "spacing"
           },
           "padding_y": {
@@ -1364,13 +1364,13 @@
             "type": "spacing"
           },
           "gap": {
-            "value": "{core.size.2}",
+            "value": "{size.2}",
             "type": "spacing"
           }
         },
         "base": {
           "padding_x": {
-            "value": "{core.size.4}",
+            "value": "{size.4}",
             "type": "spacing"
           },
           "padding_y": {
@@ -1378,56 +1378,56 @@
             "type": "spacing"
           },
           "gap": {
-            "value": "{core.size.2}",
+            "value": "{size.2}",
             "type": "spacing"
           }
         },
         "lg": {
           "padding_x": {
-            "value": "{core.size.4}",
+            "value": "{size.4}",
             "type": "spacing"
           },
           "padding_y": {
-            "value": "{core.size.4}",
+            "value": "{size.4}",
             "type": "spacing"
           },
           "gap": {
-            "value": "{core.size.2}",
+            "value": "{size.2}",
             "type": "spacing"
           }
         },
         "xl": {
           "padding_x": {
-            "value": "{core.size.6}",
+            "value": "{size.6}",
             "type": "spacing"
           },
           "padding_y": {
-            "value": "{core.size.4}",
+            "value": "{size.4}",
             "type": "spacing"
           },
           "gap": {
-            "value": "{core.size.2}",
+            "value": "{size.2}",
             "type": "spacing"
           }
         },
         "onlyIcon": {
-          "value": "{core.size.2}",
+          "value": "{size.2}",
           "type": "spacing"
         }
       }
     },
     "abubbletour": {
       "padding": {
-        "value": "{core.size.4}",
+        "value": "{size.4}",
         "type": "spacing",
         "description": "3"
       },
       "gap": {
-        "value": "{core.size.2}",
+        "value": "{size.2}",
         "type": "spacing"
       },
       "radius": {
-        "value": "{core.size.2}",
+        "value": "{size.2}",
         "type": "borderRadius"
       }
     }
@@ -1437,46 +1437,46 @@
       "color": {
         "accent": {
           "default": {
-            "value": "{core.color.accent.600}",
+            "value": "{color.accent.600}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.color.accent.500}",
+            "value": "{color.accent.500}",
             "type": "color"
           },
           "disabled": {
-            "value": "{core.color.accent.200}",
+            "value": "{color.accent.200}",
             "type": "color"
           },
           "light": {
-            "value": "{core.color.accent.100}",
+            "value": "{color.accent.100}",
             "type": "color"
           }
         },
         "brand": {
           "default": {
-            "value": "{core.color.brand.700}",
+            "value": "{color.brand.700}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.color.brand.600}",
+            "value": "{color.brand.600}",
             "type": "color"
           },
           "disabled": {
-            "value": "{core.color.brand.200}",
+            "value": "{color.brand.200}",
             "type": "color"
           },
           "light": {
-            "value": "{core.color.brand.100}",
+            "value": "{color.brand.100}",
             "type": "color"
           }
         },
         "focus": {
-          "value": "{core.color.focus}",
+          "value": "{color.focus}",
           "type": "color"
         },
         "surface": {
-          "value": "{core.color.surface}",
+          "value": "{color.surface}",
           "type": "color"
         }
       }
@@ -1484,15 +1484,15 @@
     "abubbletour": {
       "color": {
         "text": {
-          "value": "{core.color.neutral.900}",
+          "value": "{color.neutral.900}",
           "type": "color"
         },
         "countertext": {
-          "value": "{core.color.neutral.400}",
+          "value": "{color.neutral.400}",
           "type": "color"
         },
         "background": {
-          "value": "{core.color.surface}",
+          "value": "{color.surface}",
           "type": "color"
         }
       }
@@ -1501,34 +1501,34 @@
       "color": {
         "dark": {
           "background": {
-            "value": "{core.color.neutral.700}",
+            "value": "{color.neutral.700}",
             "type": "color"
           },
           "disabled": {
-            "value": "{core.color.neutral.500}",
+            "value": "{color.neutral.500}",
             "type": "color"
           },
           "text": {
-            "value": "{core.color.surface}",
+            "value": "{color.surface}",
             "type": "color"
           }
         },
         "light": {
           "background": {
-            "value": "{core.color.surface}",
+            "value": "{color.surface}",
             "type": "color"
           },
           "disabled": {
-            "value": "{core.color.neutral.300}",
+            "value": "{color.neutral.300}",
             "type": "color"
           },
           "text": {
-            "value": "{core.color.neutral.700}",
+            "value": "{color.neutral.700}",
             "type": "color"
           }
         },
         "selected": {
-          "value": "{core.color.brand.400}",
+          "value": "{color.brand.400}",
           "type": "color"
         }
       }
@@ -1536,19 +1536,19 @@
     "abadge": {
       "color": {
         "surface": {
-          "value": "{core.color.neutral.900}",
+          "value": "{color.neutral.900}",
           "type": "color"
         },
         "disabled": {
-          "value": "{core.color.neutral.300}",
+          "value": "{color.neutral.300}",
           "type": "color"
         },
         "default": {
-          "value": "{core.color.surface}",
+          "value": "{color.surface}",
           "type": "color"
         },
         "selected": {
-          "value": "{core.color.brand.400}",
+          "value": "{color.brand.400}",
           "type": "color"
         }
       }
@@ -1559,7 +1559,7 @@
       "color": {
         "accent": {
           "50": {
-            "value": "#fdf2f8",
+            "value": "$color.pink.50",
             "type": "color",
             "description": "pink-50"
           },
