@@ -1628,11 +1628,19 @@
             "hover": {
               "value": "{color.gray.200}",
               "type": "color"
+            },
+            "border": {
+              "value": "$color.neutral.200",
+              "type": "color"
             }
           },
           "dark": {
             "hover": {
               "value": "{color.gray.600}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{color.neutral.600}",
               "type": "color"
             }
           }
