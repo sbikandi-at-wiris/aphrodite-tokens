@@ -1622,6 +1622,26 @@
         "selected": {
           "value": "{color.brand.400}",
           "type": "color"
+        },
+        "level2": {
+          "light": {
+            "hover": {
+              "value": "{color.gray.200}",
+              "type": "color"
+            }
+          },
+          "dark": {
+            "hover": {
+              "value": "{color.gray.600}",
+              "type": "color"
+            }
+          }
+        },
+        "level1": {
+          "hover": {
+            "value": "{color.brand.400}",
+            "type": "color"
+          }
         }
       }
     },
