@@ -1237,6 +1237,106 @@
       }
     }
   },
+  "mean": {
+    "color": {
+      "focus": {
+        "value": "{color.sky.400}",
+        "type": "color"
+      },
+      "surface": {
+        "value": "{color.white}",
+        "type": "color"
+      },
+      "border": {
+        "value": "{color.gray.200}",
+        "type": "color"
+      },
+      "brand": {
+        "50": {
+          "value": "{color.emerald.50}",
+          "type": "color"
+        },
+        "100": {
+          "value": "{color.emerald.100}",
+          "type": "color"
+        },
+        "200": {
+          "value": "{color.emerald.200}",
+          "type": "color"
+        },
+        "300": {
+          "value": "{color.emerald.300}",
+          "type": "color"
+        },
+        "400": {
+          "value": "{color.emerald.400}",
+          "type": "color"
+        },
+        "500": {
+          "value": "{color.emerald.500}",
+          "type": "color"
+        },
+        "600": {
+          "value": "{color.emerald.600}",
+          "type": "color"
+        },
+        "700": {
+          "value": "{color.emerald.700}",
+          "type": "color"
+        },
+        "800": {
+          "value": "{color.emerald.800}",
+          "type": "color"
+        },
+        "900": {
+          "value": "{color.emerald.900}",
+          "type": "color"
+        }
+      },
+      "accent": {
+        "50": {
+          "value": "{color.orange.50}",
+          "type": "color"
+        },
+        "100": {
+          "value": "{color.orange.100}",
+          "type": "color"
+        },
+        "200": {
+          "value": "{color.orange.200}",
+          "type": "color"
+        },
+        "300": {
+          "value": "{color.orange.300}",
+          "type": "color"
+        },
+        "400": {
+          "value": "{color.orange.400}",
+          "type": "color"
+        },
+        "500": {
+          "value": "{color.orange.500}",
+          "type": "color"
+        },
+        "600": {
+          "value": "{color.orange.600}",
+          "type": "color"
+        },
+        "700": {
+          "value": "{color.orange.700}",
+          "type": "color"
+        },
+        "800": {
+          "value": "{color.orange.800}",
+          "type": "color"
+        },
+        "900": {
+          "value": "{color.orange.900}",
+          "type": "color"
+        }
+      }
+    }
+  },
   "MasterTest": {
     "abutton": {
       "space": {
