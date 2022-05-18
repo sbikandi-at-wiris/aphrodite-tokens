@@ -1410,7 +1410,7 @@
     }
   },
   "component": {
-    "abutton": {
+    "button": {
       "color": {
         "neutral": {
           "default": {
@@ -1467,11 +1467,11 @@
           }
         },
         "focus": {
-          "value": "{color.focus}",
+          "value": "$color.focus",
           "type": "color"
         },
         "surface": {
-          "value": "{color.surface}",
+          "value": "$color.surface",
           "type": "color"
         }
       },
@@ -1552,7 +1552,7 @@
         }
       }
     },
-    "abubbletour": {
+    "bubble-tour": {
       "color": {
         "text": {
           "value": "{color.neutral.900}",
@@ -1577,11 +1577,11 @@
         "type": "spacing"
       },
       "radius": {
-        "value": "{size.2}",
+        "value": "$size.2",
         "type": "borderRadius"
       }
     },
-    "atoolbar": {
+    "toolbar": {
       "color": {
         "dark": {
           "background": {
@@ -1617,7 +1617,7 @@
         }
       }
     },
-    "abadge": {
+    "badge": {
       "color": {
         "surface": {
           "value": "{color.neutral.900}",
@@ -1769,7 +1769,7 @@
         }
       }
     },
-    "abutton": {
+    "button": {
       "color": {
         "accent": {
           "default": {
@@ -1899,7 +1899,7 @@
         }
       }
     },
-    "abutton": {
+    "button": {
       "color": {
         "accent": {
           "default": {
@@ -2029,7 +2029,7 @@
         }
       }
     },
-    "abutton": {
+    "button": {
       "color": {
         "accent": {
           "default": {
