@@ -1295,43 +1295,43 @@
       },
       "brand": {
         "50": {
-          "value": "{color.emerald.50}",
+          "value": "{color.blue.50}",
           "type": "color"
         },
         "100": {
-          "value": "{color.emerald.100}",
+          "value": "{color.blue.100}",
           "type": "color"
         },
         "200": {
-          "value": "{color.emerald.200}",
+          "value": "{color.blue.200}",
           "type": "color"
         },
         "300": {
-          "value": "{color.emerald.300}",
+          "value": "{color.blue.300}",
           "type": "color"
         },
         "400": {
-          "value": "{color.emerald.400}",
+          "value": "{color.blue.400}",
           "type": "color"
         },
         "500": {
-          "value": "{color.emerald.500}",
+          "value": "{color.blue.500}",
           "type": "color"
         },
         "600": {
-          "value": "{color.emerald.600}",
+          "value": "{color.blue.600}",
           "type": "color"
         },
         "700": {
-          "value": "{color.emerald.700}",
+          "value": "{color.blue.700}",
           "type": "color"
         },
         "800": {
-          "value": "{color.emerald.800}",
+          "value": "{color.blue.800}",
           "type": "color"
         },
         "900": {
-          "value": "{color.emerald.900}",
+          "value": "{color.blue.900}",
           "type": "color"
         }
       },
@@ -1411,6 +1411,70 @@
   },
   "component": {
     "abutton": {
+      "color": {
+        "neutral": {
+          "default": {
+            "value": "{color.neutral.600}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{color.neutral.500}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.neutral.300}",
+            "type": "color"
+          },
+          "light": {
+            "value": "{color.neutral.100}",
+            "type": "color"
+          }
+        },
+        "accent": {
+          "default": {
+            "value": "{color.accent.600}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{color.accent.500}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.accent.200}",
+            "type": "color"
+          },
+          "light": {
+            "value": "{color.accent.100}",
+            "type": "color"
+          }
+        },
+        "brand": {
+          "default": {
+            "value": "{color.brand.700}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{color.brand.500}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{color.brand.200}",
+            "type": "color"
+          },
+          "light": {
+            "value": "{color.brand.100}",
+            "type": "color"
+          }
+        },
+        "focus": {
+          "value": "{color.focus}",
+          "type": "color"
+        },
+        "surface": {
+          "value": "{color.surface}",
+          "type": "color"
+        }
+      },
       "space": {
         "xs": {
           "padding_x": {
@@ -1489,89 +1553,6 @@
       }
     },
     "abubbletour": {
-      "padding": {
-        "value": "{size.4}",
-        "type": "spacing",
-        "description": "3"
-      },
-      "gap": {
-        "value": "{size.2}",
-        "type": "spacing"
-      },
-      "radius": {
-        "value": "{size.2}",
-        "type": "borderRadius"
-      }
-    }
-  },
-  "component-color": {
-    "abutton": {
-      "color": {
-        "neutral": {
-          "default": {
-            "value": "{color.neutral.600}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{color.neutral.500}",
-            "type": "color"
-          },
-          "disabled": {
-            "value": "{color.neutral.300}",
-            "type": "color"
-          },
-          "light": {
-            "value": "{color.neutral.100}",
-            "type": "color"
-          }
-        },
-        "accent": {
-          "default": {
-            "value": "{color.accent.600}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{color.accent.500}",
-            "type": "color"
-          },
-          "disabled": {
-            "value": "{color.accent.200}",
-            "type": "color"
-          },
-          "light": {
-            "value": "{color.accent.100}",
-            "type": "color"
-          }
-        },
-        "brand": {
-          "default": {
-            "value": "{color.brand.700}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{color.brand.600}",
-            "type": "color"
-          },
-          "disabled": {
-            "value": "{color.brand.200}",
-            "type": "color"
-          },
-          "light": {
-            "value": "{color.brand.100}",
-            "type": "color"
-          }
-        },
-        "focus": {
-          "value": "{color.focus}",
-          "type": "color"
-        },
-        "surface": {
-          "value": "{color.surface}",
-          "type": "color"
-        }
-      }
-    },
-    "abubbletour": {
       "color": {
         "text": {
           "value": "{color.neutral.900}",
@@ -1585,6 +1566,19 @@
           "value": "{color.surface}",
           "type": "color"
         }
+      },
+      "padding": {
+        "value": "{size.4}",
+        "type": "spacing",
+        "description": "3"
+      },
+      "gap": {
+        "value": "{size.2}",
+        "type": "spacing"
+      },
+      "radius": {
+        "value": "{size.2}",
+        "type": "borderRadius"
       }
     },
     "atoolbar": {
