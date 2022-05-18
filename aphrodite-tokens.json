@@ -1376,6 +1376,36 @@
           "value": "{color.orange.900}",
           "type": "color"
         }
+      },
+      "error": {
+        "default": {
+          "value": "{color.red.500}",
+          "type": "color"
+        },
+        "light": {
+          "value": "{color.red.100}",
+          "type": "color"
+        }
+      },
+      "success": {
+        "default": {
+          "value": "{color.green.500}",
+          "type": "color"
+        },
+        "light": {
+          "value": "{color.green.100}",
+          "type": "color"
+        }
+      },
+      "info": {
+        "default": {
+          "value": "{color.gray.600}",
+          "type": "color"
+        },
+        "light": {
+          "value": "{color.gray.100}",
+          "type": "color"
+        }
       }
     }
   },
@@ -1487,7 +1517,7 @@
             "type": "color"
           },
           "disabled": {
-            "value": "{color.neutral.200}",
+            "value": "{color.neutral.300}",
             "type": "color"
           },
           "light": {
@@ -1615,90 +1645,110 @@
     }
   },
   "BF": {
-    "mean": {
+    "core": {
       "color": {
         "accent": {
           "50": {
             "value": "$color.pink.50",
-            "type": "color"
+            "type": "color",
+            "description": "pink-50"
           },
           "100": {
-            "value": "$color.pink.100",
-            "type": "color"
+            "value": "#fce7f3",
+            "type": "color",
+            "description": "pink-100"
           },
           "200": {
-            "value": "$color.pink.200",
-            "type": "color"
+            "value": "#fbcfe8",
+            "type": "color",
+            "description": "pink-200"
           },
           "300": {
-            "value": "$color.pink.300",
-            "type": "color"
+            "value": "#f9a8d4",
+            "type": "color",
+            "description": "pink-300"
           },
           "400": {
-            "value": "$color.pink.400",
-            "type": "color"
+            "value": "#f472b6",
+            "type": "color",
+            "description": "pink-400"
           },
           "500": {
-            "value": "$color.pink.500",
-            "type": "color"
+            "value": "#ec4899",
+            "type": "color",
+            "description": "pink-500"
           },
           "600": {
-            "value": "$color.pink.600",
-            "type": "color"
+            "value": "#db2777",
+            "type": "color",
+            "description": "pink-600"
           },
           "700": {
-            "value": "$color.pink.700",
-            "type": "color"
+            "value": "#be185d",
+            "type": "color",
+            "description": "pink-700"
           },
           "800": {
-            "value": "$color.pink.800",
-            "type": "color"
+            "value": "#9d174d",
+            "type": "color",
+            "description": "pink-800"
           },
           "900": {
-            "value": "$color.pink.900",
-            "type": "color"
+            "value": "#831843",
+            "type": "color",
+            "description": "pink-900"
           }
         },
         "brand1": {
           "50": {
-            "value": "$color.blue.50",
-            "type": "color"
+            "value": "#eff6ff",
+            "type": "color",
+            "description": "blue-50"
           },
           "100": {
-            "value": "$color.blue.100",
-            "type": "color"
+            "value": "#dbeafe",
+            "type": "color",
+            "description": "blue-100"
           },
           "200": {
-            "value": "$color.blue.200",
-            "type": "color"
+            "value": "#bfdbfe",
+            "type": "color",
+            "description": "blue-200"
           },
           "300": {
-            "value": "$color.blue.300",
-            "type": "color"
+            "value": "#93c5fd",
+            "type": "color",
+            "description": "blue-300"
           },
           "400": {
-            "value": "$color.blue.400",
-            "type": "color"
+            "value": "#60a5fa",
+            "type": "color",
+            "description": "blue-400"
           },
           "500": {
-            "value": "$color.blue.500",
-            "type": "color"
+            "value": "#3b82f6",
+            "type": "color",
+            "description": "blue-500"
           },
           "600": {
-            "value": "$color.blue.600",
-            "type": "color"
+            "value": "#2563eb",
+            "type": "color",
+            "description": "blue-600"
           },
           "700": {
-            "value": "$color.blue.700",
-            "type": "color"
+            "value": "#1d4ed8",
+            "type": "color",
+            "description": "blue-700"
           },
           "800": {
-            "value": "$color.blue.800",
-            "type": "color"
+            "value": "#1e40af",
+            "type": "color",
+            "description": "blue-800"
           },
           "900": {
-            "value": "$color.blue.900",
-            "type": "color"
+            "value": "#1e3a8a",
+            "type": "color",
+            "description": "blue-900"
           }
         },
         "brand2": {
@@ -1759,37 +1809,37 @@
       "color": {
         "accent": {
           "default": {
-            "value": "{mean.color.accent.600}",
+            "value": "{core.color.accent.600}",
             "type": "color"
           },
           "hover": {
-            "value": "{mean.color.accent.500}",
+            "value": "{core.color.accent.500}",
             "type": "color"
           },
           "disabled": {
-            "value": "{mean.color.accent.300}",
+            "value": "{core.color.accent.300}",
             "type": "color"
           },
           "light": {
-            "value": "{mean.color.accent.100}",
+            "value": "{core.color.accent.100}",
             "type": "color"
           }
         },
         "brand": {
           "default": {
-            "value": "{mean.color.brand2.500}",
+            "value": "{core.color.brand2.500}",
             "type": "color"
           },
           "hover": {
-            "value": "{mean.color.brand2.400}",
+            "value": "{core.color.brand2.400}",
             "type": "color"
           },
           "disabled": {
-            "value": "{mean.color.brand2.200}",
+            "value": "{core.color.brand2.200}",
             "type": "color"
           },
           "light": {
-            "value": "{mean.color.brand2.100}",
+            "value": "{core.color.brand2.100}",
             "type": "color"
           }
         }
