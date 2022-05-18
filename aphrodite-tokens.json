@@ -1476,91 +1476,99 @@
         }
       },
       "space": {
-        "xs": {
-          "padding_x": {
-            "value": "{size.2}",
-            "type": "spacing"
+        "padding": {
+          "x": {
+            "xs": {
+              "value": "{size.2}",
+              "type": "spacing"
+            },
+            "sm": {
+              "value": "{size.3}",
+              "type": "spacing"
+            },
+            "base": {
+              "value": "{size.4}",
+              "type": "spacing"
+            },
+            "lg": {
+              "value": "{size.4}",
+              "type": "spacing"
+            },
+            "xl": {
+              "value": "{size.6}",
+              "type": "spacing"
+            }
           },
-          "padding_y": {
+          "y": {
+            "xs": {
+              "value": "{size.1}",
+              "type": "spacing"
+            },
+            "sm": {
+              "value": "7",
+              "type": "spacing"
+            },
+            "base": {
+              "value": "10",
+              "type": "spacing"
+            },
+            "lg": {
+              "value": "{size.4}",
+              "type": "spacing"
+            },
+            "xl": {
+              "value": "{size.4}",
+              "type": "spacing"
+            }
+          }
+        },
+        "gap": {
+          "xs": {
             "value": "{size.1}",
             "type": "spacing"
           },
-          "gap": {
-            "value": "{size.1}",
-            "type": "spacing"
-          }
-        },
-        "sm": {
-          "padding_x": {
-            "value": "{size.3}",
+          "sm": {
+            "value": "{size.2}",
             "type": "spacing"
           },
-          "padding_y": {
-            "value": "7",
+          "base": {
+            "value": "{size.2}",
             "type": "spacing"
           },
-          "gap": {
+          "lg": {
+            "value": "{size.2}",
+            "type": "spacing"
+          },
+          "xl": {
             "value": "{size.2}",
             "type": "spacing"
           }
         },
-        "base": {
-          "padding_x": {
-            "value": "{size.4}",
-            "type": "spacing"
-          },
-          "padding_y": {
-            "value": "10",
-            "type": "spacing"
-          },
-          "gap": {
+        "only-icon": {
+          "padding": {
             "value": "{size.2}",
             "type": "spacing"
           }
-        },
-        "lg": {
-          "padding_x": {
-            "value": "{size.4}",
-            "type": "spacing"
-          },
-          "padding_y": {
-            "value": "{size.4}",
-            "type": "spacing"
-          },
-          "gap": {
-            "value": "{size.2}",
-            "type": "spacing"
-          }
-        },
-        "xl": {
-          "padding_x": {
-            "value": "{size.6}",
-            "type": "spacing"
-          },
-          "padding_y": {
-            "value": "{size.4}",
-            "type": "spacing"
-          },
-          "gap": {
-            "value": "{size.2}",
-            "type": "spacing"
-          }
-        },
-        "onlyIcon": {
-          "value": "{size.2}",
-          "type": "spacing"
         }
+      },
+      "radius": {
+        "value": "$size.2",
+        "type": "borderRadius"
       }
     },
     "bubble-tour": {
       "color": {
-        "text": {
-          "value": "{color.neutral.900}",
-          "type": "color"
+        "title": {
+          "text": {
+            "value": "{color.neutral.900}",
+            "type": "color"
+          }
         },
-        "countertext": {
-          "value": "{color.neutral.400}",
-          "type": "color"
+        "counter": {
+          "text": {
+            "value": "{color.neutral.400}",
+            "type": "color"
+          }
         },
         "background": {
           "value": "{color.surface}",
