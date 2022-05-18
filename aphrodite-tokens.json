@@ -1815,106 +1815,86 @@
       "color": {
         "accent": {
           "50": {
-            "value": "#fff1f2",
-            "type": "color",
-            "description": "rose-50"
+            "value": "$color.rose.50",
+            "type": "color"
           },
           "100": {
-            "value": "#ffe4e6",
-            "type": "color",
-            "description": "rose-100"
+            "value": "$color.rose.100",
+            "type": "color"
           },
           "200": {
-            "value": "#fecdd3",
-            "type": "color",
-            "description": "rose-200"
+            "value": "$color.rose.200",
+            "type": "color"
           },
           "300": {
-            "value": "#fda4af",
-            "type": "color",
-            "description": "rose-300"
+            "value": "$color.rose.300",
+            "type": "color"
           },
           "400": {
-            "value": "#fb7185",
-            "type": "color",
-            "description": "rose-400"
+            "value": "$color.rose.400",
+            "type": "color"
           },
           "500": {
-            "value": "#f43f5e",
-            "type": "color",
-            "description": "rose-500"
+            "value": "$color.rose.500",
+            "type": "color"
           },
           "600": {
-            "value": "#e11d48",
-            "type": "color",
-            "description": "rose-600"
+            "value": "$color.rose.600",
+            "type": "color"
           },
           "700": {
-            "value": "#be123c",
-            "type": "color",
-            "description": "rose-700"
+            "value": "$color.rose.700",
+            "type": "color"
           },
           "800": {
-            "value": "#9f1239",
-            "type": "color",
-            "description": "rose-800"
+            "value": "$color.rose.800",
+            "type": "color"
           },
           "900": {
-            "value": "#881337",
-            "type": "color",
-            "description": "rose-900"
+            "value": "$color.rose.900",
+            "type": "color"
           }
         },
         "brand": {
           "50": {
-            "value": "#ecfeff",
-            "type": "color",
-            "description": "cyan-50"
+            "value": "$color.cyan.50",
+            "type": "color"
           },
           "100": {
-            "value": "#cffafe",
-            "type": "color",
-            "description": "cyan-100"
+            "value": "$color.cyan.100",
+            "type": "color"
           },
           "200": {
-            "value": "#a5f3fc",
-            "type": "color",
-            "description": "cyan-200"
+            "value": "$color.cyan.200",
+            "type": "color"
           },
           "300": {
-            "value": "#67e8f9",
-            "type": "color",
-            "description": "cyan-300"
+            "value": "$color.cyan.300",
+            "type": "color"
           },
           "400": {
-            "value": "#22d3ee",
-            "type": "color",
-            "description": "cyan-400"
+            "value": "$color.cyan.400",
+            "type": "color"
           },
           "500": {
-            "value": "#06b6d4",
-            "type": "color",
-            "description": "cyan-500"
+            "value": "$color.cyan.500",
+            "type": "color"
           },
           "600": {
-            "value": "#0891b2",
-            "type": "color",
-            "description": "cyan-600"
+            "value": "$color.cyan.600",
+            "type": "color"
           },
           "700": {
-            "value": "#0e7490",
-            "type": "color",
-            "description": "cyan-700"
+            "value": "$color.cyan.700",
+            "type": "color"
           },
           "800": {
-            "value": "#155e75",
-            "type": "color",
-            "description": "cyan-800"
+            "value": "$color.cyan.800",
+            "type": "color"
           },
           "900": {
-            "value": "#164e63",
-            "type": "color",
-            "description": "cyan-900"
+            "value": "$color.cyan.900",
+            "type": "color"
           }
         }
       }
