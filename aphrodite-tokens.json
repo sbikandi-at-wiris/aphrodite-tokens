@@ -1240,15 +1240,15 @@
   "mean": {
     "color": {
       "focus": {
-        "value": "{color.sky.400}",
+        "value": "$color.sky.400",
         "type": "color"
       },
       "surface": {
-        "value": "{color.white}",
+        "value": "$color.white",
         "type": "color"
       },
       "border": {
-        "value": "{color.gray.200}",
+        "value": "$color.neutral.300",
         "type": "color"
       },
       "neutral": {
