@@ -1925,42 +1925,44 @@
         }
       }
     },
-    "button": {
-      "color": {
-        "accent": {
-          "default": {
-            "value": "$core.color.accent.600",
-            "type": "color"
+    "component": {
+      "button": {
+        "color": {
+          "accent": {
+            "default": {
+              "value": "$core.color.accent.600",
+              "type": "color"
+            },
+            "hover": {
+              "value": "$core.color.accent.500",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "$core.color.accent.300",
+              "type": "color"
+            },
+            "light": {
+              "value": "$core.color.accent.100",
+              "type": "color"
+            }
           },
-          "hover": {
-            "value": "$core.color.accent.500",
-            "type": "color"
-          },
-          "disabled": {
-            "value": "$core.color.accent.300",
-            "type": "color"
-          },
-          "light": {
-            "value": "$core.color.accent.100",
-            "type": "color"
-          }
-        },
-        "brand": {
-          "default": {
-            "value": "$core.color.brand2.500",
-            "type": "color"
-          },
-          "hover": {
-            "value": "$core.color.brand2.400",
-            "type": "color"
-          },
-          "disabled": {
-            "value": "$core.color.brand2.200",
-            "type": "color"
-          },
-          "light": {
-            "value": "$core.color.brand2.100",
-            "type": "color"
+          "brand": {
+            "default": {
+              "value": "$core.color.brand2.500",
+              "type": "color"
+            },
+            "hover": {
+              "value": "$core.color.brand2.400",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "$core.color.brand2.200",
+              "type": "color"
+            },
+            "light": {
+              "value": "$core.color.brand2.100",
+              "type": "color"
+            }
           }
         }
       }
@@ -2075,42 +2077,44 @@
         }
       }
     },
-    "button": {
-      "color": {
-        "accent": {
-          "default": {
-            "value": "$core.color.accent.600",
-            "type": "color"
+    "component": {
+      "button": {
+        "color": {
+          "accent": {
+            "default": {
+              "value": "$core.color.accent.600",
+              "type": "color"
+            },
+            "hover": {
+              "value": "$core.color.accent.500",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "$core.color.accent.300",
+              "type": "color"
+            },
+            "light": {
+              "value": "$core.color.accent.100",
+              "type": "color"
+            }
           },
-          "hover": {
-            "value": "$core.color.accent.500",
-            "type": "color"
-          },
-          "disabled": {
-            "value": "$core.color.accent.300",
-            "type": "color"
-          },
-          "light": {
-            "value": "$core.color.accent.100",
-            "type": "color"
-          }
-        },
-        "brand": {
-          "default": {
-            "value": "$core.color.brand.700",
-            "type": "color"
-          },
-          "hover": {
-            "value": "$core.color.brand.800",
-            "type": "color"
-          },
-          "disabled": {
-            "value": "$core.color.brand.300",
-            "type": "color"
-          },
-          "light": {
-            "value": "$core.color.brand.100",
-            "type": "color"
+          "brand": {
+            "default": {
+              "value": "$core.color.brand.700",
+              "type": "color"
+            },
+            "hover": {
+              "value": "$core.color.brand.800",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "$core.color.brand.300",
+              "type": "color"
+            },
+            "light": {
+              "value": "$core.color.brand.100",
+              "type": "color"
+            }
           }
         }
       }
@@ -2225,42 +2229,44 @@
         }
       }
     },
-    "button": {
-      "color": {
-        "accent": {
-          "default": {
-            "value": "$core.color.accent.600",
-            "type": "color"
+    "component": {
+      "button": {
+        "color": {
+          "accent": {
+            "default": {
+              "value": "$core.color.accent.600",
+              "type": "color"
+            },
+            "hover": {
+              "value": "$core.color.accent.500",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "$core.color.accent.300",
+              "type": "color"
+            },
+            "light": {
+              "value": "$core.color.accent.100",
+              "type": "color"
+            }
           },
-          "hover": {
-            "value": "$core.color.accent.500",
-            "type": "color"
-          },
-          "disabled": {
-            "value": "$core.color.accent.300",
-            "type": "color"
-          },
-          "light": {
-            "value": "$core.color.accent.100",
-            "type": "color"
-          }
-        },
-        "brand": {
-          "default": {
-            "value": "$core.color.brand.700",
-            "type": "color"
-          },
-          "hover": {
-            "value": "$core.color.brand.600",
-            "type": "color"
-          },
-          "disabled": {
-            "value": "$core.color.brand.300",
-            "type": "color"
-          },
-          "light": {
-            "value": "$core.color.brand.100",
-            "type": "color"
+          "brand": {
+            "default": {
+              "value": "$core.color.brand.700",
+              "type": "color"
+            },
+            "hover": {
+              "value": "$core.color.brand.600",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "$core.color.brand.300",
+              "type": "color"
+            },
+            "light": {
+              "value": "$core.color.brand.100",
+              "type": "color"
+            }
           }
         }
       }
