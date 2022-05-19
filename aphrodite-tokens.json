@@ -1399,11 +1399,11 @@
       },
       "info": {
         "default": {
-          "value": "$color.gray.600",
+          "value": "$color.neutral.600",
           "type": "color"
         },
         "light": {
-          "value": "$color.gray.100",
+          "value": "$color.neutral.100",
           "type": "color"
         }
       }
