@@ -56,6 +56,46 @@
         "type": "sizing",
         "description": "10"
       },
+      "11": {
+        "value": "44",
+        "type": "sizing",
+        "description": "11"
+      },
+      "12": {
+        "value": "48",
+        "type": "sizing",
+        "description": "12"
+      },
+      "14": {
+        "value": "56",
+        "type": "sizing",
+        "description": "14"
+      },
+      "16": {
+        "value": "64",
+        "type": "sizing",
+        "description": "16"
+      },
+      "20": {
+        "value": "80",
+        "type": "sizing",
+        "description": "20"
+      },
+      "24": {
+        "value": "96",
+        "type": "sizing",
+        "description": "24"
+      },
+      "28": {
+        "value": "112",
+        "type": "sizing",
+        "description": "28"
+      },
+      "32": {
+        "value": "128",
+        "type": "sizing",
+        "description": "32"
+      },
       "px": {
         "value": "1",
         "type": "sizing",
@@ -1235,6 +1275,41 @@
           "value": "#881337",
           "type": "color",
           "description": "rose-900"
+        }
+      }
+    },
+    "font": {
+      "family": {
+        "inter": {
+          "value": "Inter",
+          "type": "fontFamilies"
+        }
+      },
+      "weight": {
+        "normal": {
+          "value": "400",
+          "type": "fontWeights",
+          "description": "font-normal"
+        },
+        "medium": {
+          "value": "500",
+          "type": "fontWeights",
+          "description": "font-medium"
+        },
+        "semibold": {
+          "value": "600",
+          "type": "fontWeights",
+          "description": "font-semibold"
+        },
+        "bold": {
+          "value": "700",
+          "type": "fontWeights",
+          "description": "font-bold"
+        },
+        "extrabold": {
+          "value": "800",
+          "type": "fontWeights",
+          "description": "font-extrabold"
         }
       }
     }
