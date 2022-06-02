@@ -1765,7 +1765,7 @@
     }
   },
   "BF": {
-    "core": {
+    "mean": {
       "color": {
         "accent": {
           "50": {
@@ -1929,45 +1929,61 @@
       "color": {
         "accent": {
           "default": {
-            "value": "$core.color.accent.600",
-            "type": "color"
+            "value": "$mean.color.accent.600",
+            "type": "color",
+            "description": "BF"
           },
           "hover": {
-            "value": "$core.color.accent.500",
-            "type": "color"
+            "value": "$mean.color.accent.500",
+            "type": "color",
+            "description": "BF"
           },
           "disabled": {
-            "value": "$core.color.accent.300",
-            "type": "color"
+            "value": "$mean.color.accent.300",
+            "type": "color",
+            "description": "BF"
           },
           "light": {
-            "value": "$core.color.accent.100",
-            "type": "color"
+            "value": "$mean.color.accent.100",
+            "type": "color",
+            "description": "BF"
           }
         },
         "brand": {
           "default": {
-            "value": "$core.color.brand2.500",
-            "type": "color"
+            "value": "$mean.color.brand2.500",
+            "type": "color",
+            "description": "BF"
           },
           "hover": {
-            "value": "$core.color.brand2.400",
-            "type": "color"
+            "value": "$mean.color.brand2.400",
+            "type": "color",
+            "description": "BF"
           },
           "disabled": {
-            "value": "$core.color.brand2.200",
-            "type": "color"
+            "value": "$mean.color.brand2.200",
+            "type": "color",
+            "description": "BF"
           },
           "light": {
-            "value": "$core.color.brand2.100",
-            "type": "color"
+            "value": "$mean.color.brand2.100",
+            "type": "color",
+            "description": "BF"
           }
+        },
+        "focus": {
+          "value": "#d52525",
+          "type": "color"
+        },
+        "surface": {
+          "value": "#f8e9e9",
+          "type": "color"
         }
       }
     }
   },
   "MT": {
-    "core": {
+    "mean": {
       "color": {
         "accent": {
           "50": {
@@ -2079,45 +2095,53 @@
       "color": {
         "accent": {
           "default": {
-            "value": "$core.color.accent.600",
-            "type": "color"
+            "value": "$mean.color.accent.600",
+            "type": "color",
+            "description": "MT"
           },
           "hover": {
-            "value": "$core.color.accent.500",
-            "type": "color"
+            "value": "$mean.color.accent.500",
+            "type": "color",
+            "description": "MT"
           },
           "disabled": {
-            "value": "$core.color.accent.300",
-            "type": "color"
+            "value": "$mean.color.accent.300",
+            "type": "color",
+            "description": "MT"
           },
           "light": {
-            "value": "$core.color.accent.100",
-            "type": "color"
+            "value": "$mean.color.accent.100",
+            "type": "color",
+            "description": "MT"
           }
         },
         "brand": {
           "default": {
-            "value": "$core.color.brand.700",
-            "type": "color"
+            "value": "$mean.color.brand.700",
+            "type": "color",
+            "description": "MT"
           },
           "hover": {
-            "value": "$core.color.brand.800",
-            "type": "color"
+            "value": "$mean.color.brand.800",
+            "type": "color",
+            "description": "MT"
           },
           "disabled": {
-            "value": "$core.color.brand.300",
-            "type": "color"
+            "value": "$mean.color.brand.300",
+            "type": "color",
+            "description": "MT"
           },
           "light": {
-            "value": "$core.color.brand.100",
-            "type": "color"
+            "value": "$mean.color.brand.100",
+            "type": "color",
+            "description": "MT"
           }
         }
       }
     }
   },
   "LL": {
-    "core": {
+    "mean": {
       "color": {
         "accent": {
           "50": {
@@ -2229,38 +2253,46 @@
       "color": {
         "accent": {
           "default": {
-            "value": "$core.color.accent.600",
-            "type": "color"
+            "value": "$mean.color.accent.600",
+            "type": "color",
+            "description": "LL"
           },
           "hover": {
-            "value": "$core.color.accent.500",
-            "type": "color"
+            "value": "$mean.color.accent.500",
+            "type": "color",
+            "description": "LL"
           },
           "disabled": {
-            "value": "$core.color.accent.300",
-            "type": "color"
+            "value": "$mean.color.accent.300",
+            "type": "color",
+            "description": "LL"
           },
           "light": {
-            "value": "$core.color.accent.100",
-            "type": "color"
+            "value": "$mean.color.accent.100",
+            "type": "color",
+            "description": "LL"
           }
         },
         "brand": {
           "default": {
-            "value": "$core.color.brand.700",
-            "type": "color"
+            "value": "$mean.color.brand.700",
+            "type": "color",
+            "description": "LL"
           },
           "hover": {
-            "value": "$core.color.brand.600",
-            "type": "color"
+            "value": "$mean.color.brand.600",
+            "type": "color",
+            "description": "LL"
           },
           "disabled": {
-            "value": "$core.color.brand.300",
-            "type": "color"
+            "value": "$mean.color.brand.300",
+            "type": "color",
+            "description": "LL"
           },
           "light": {
-            "value": "$core.color.brand.100",
-            "type": "color"
+            "value": "$mean.color.brand.100",
+            "type": "color",
+            "description": "LL"
           }
         }
       }
