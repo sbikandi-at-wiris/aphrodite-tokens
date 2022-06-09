@@ -1845,49 +1845,45 @@
     },
     "spinner": {
       "color": {
-        "accent": {
-          "spin": {
+        "spin": {
+          "accent": {
             "value": "$color.accent.600",
             "type": "color",
             "description": "mean"
           },
-          "background": {
-            "value": "rgba($color.accent.600, 0.2)",
-            "type": "color",
-            "description": "mean"
-          }
-        },
-        "brand": {
-          "spin": {
+          "brand": {
             "value": "$color.brand.700",
             "type": "color",
             "description": "mean"
           },
-          "background": {
-            "value": "rgba($color.brand.700, 0.2)",
-            "type": "color",
-            "description": "mean"
-          }
-        },
-        "light": {
-          "spin": {
+          "light": {
             "value": "$color.white",
             "type": "color",
             "description": "mean"
           },
-          "background": {
-            "value": "rgba($color.white, 0.2)",
+          "neutral": {
+            "value": "$color.neutral.500",
             "type": "color",
             "description": "mean"
           }
         },
-        "neutral": {
-          "spin": {
-            "value": "$color.neutral.500",
+        "background": {
+          "accent": {
+            "value": "rgba($color.accent.600, 0.2)",
             "type": "color",
             "description": "mean"
           },
-          "background": {
+          "brand": {
+            "value": "rgba($color.brand.700, 0.2)",
+            "type": "color",
+            "description": "mean"
+          },
+          "light": {
+            "value": "rgba($color.white, 0.2)",
+            "type": "color",
+            "description": "mean"
+          },
+          "neutral": {
             "value": "rgba($color.neutral.500, 0.2)",
             "type": "color",
             "description": "mean"
