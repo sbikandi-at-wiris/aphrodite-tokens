@@ -1857,7 +1857,7 @@
             "description": "mean"
           },
           "light": {
-            "value": "$color.white",
+            "value": "$color.surface",
             "type": "color",
             "description": "mean"
           },
@@ -1879,7 +1879,7 @@
             "description": "mean"
           },
           "light": {
-            "value": "rgba($color.white, 0.2)",
+            "value": "rgba($color.surface, 0.2)",
             "type": "color",
             "description": "mean"
           },
