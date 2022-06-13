@@ -1862,7 +1862,7 @@
             "description": "mean"
           },
           "neutral": {
-            "value": "$color.neutral.500",
+            "value": "$color.neutral.600",
             "type": "color",
             "description": "mean"
           }
