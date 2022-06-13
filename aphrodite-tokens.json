@@ -1890,6 +1890,58 @@
           }
         }
       }
+    },
+    "icon": {
+      "color": {
+        "accent": {
+          "default": {
+            "value": "{color.accent.600}",
+            "type": "color",
+            "description": "mean"
+          },
+          "disabled": {
+            "value": "{color.accent.200}",
+            "type": "color",
+            "description": "mean"
+          }
+        },
+        "brand": {
+          "default": {
+            "value": "{color.brand.700}",
+            "type": "color",
+            "description": "mean"
+          },
+          "disabled": {
+            "value": "{color.brand.200}",
+            "type": "color",
+            "description": "mean"
+          }
+        },
+        "light": {
+          "default": {
+            "value": "{color.surface}",
+            "type": "color",
+            "description": "mean"
+          },
+          "disabled": {
+            "value": "{color.surface}",
+            "type": "color",
+            "description": "mean"
+          }
+        },
+        "neutral": {
+          "default": {
+            "value": "{color.neutral.600}",
+            "type": "color",
+            "description": "mean"
+          },
+          "disabled": {
+            "value": "{color.neutral.300}",
+            "type": "color",
+            "description": "mean"
+          }
+        }
+      }
     }
   },
   "BF": {
