@@ -1717,7 +1717,7 @@
         },
         "only-icon": {
           "padding": {
-            "value": "$size.2",
+            "value": "$size.1-75",
             "type": "spacing",
             "description": "core"
           }
