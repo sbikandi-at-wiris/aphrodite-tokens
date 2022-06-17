@@ -7,6 +7,10 @@
         "description": "0"
       },
       "1": {
+        "75": {
+          "value": "4",
+          "type": "sizing"
+        },
         "value": "4",
         "type": "sizing",
         "description": "1"
@@ -120,6 +124,26 @@
         "value": "14",
         "type": "sizing",
         "description": "3.5"
+      },
+      "3-25": {
+        "value": "13",
+        "type": "sizing",
+        "description": "3.25"
+      },
+      "1-75": {
+        "value": "7",
+        "type": "sizing",
+        "description": "1.75"
+      },
+      "1-25": {
+        "value": "5",
+        "type": "sizing",
+        "description": "1.25"
+      },
+      "0-75": {
+        "value": "3",
+        "type": "sizing",
+        "description": "0.75"
       }
     },
     "color": {
@@ -1638,27 +1662,27 @@
           },
           "y": {
             "xs": {
-              "value": "$size.1",
+              "value": "$size.0-75",
               "type": "spacing",
               "description": "core"
             },
             "sm": {
-              "value": "$size.1-5",
+              "value": "$size.1-25",
               "type": "spacing",
               "description": "core"
             },
             "base": {
-              "value": "$size.2",
+              "value": "$size.1-75",
               "type": "spacing",
               "description": "core"
             },
             "lg": {
-              "value": "$size.3-5",
+              "value": "$size.3-25",
               "type": "spacing",
               "description": "core"
             },
             "xl": {
-              "value": "$size.3-5",
+              "value": "$size.3-25",
               "type": "spacing",
               "description": "core"
             }
