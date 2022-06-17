@@ -1621,7 +1621,7 @@
               "description": "core"
             },
             "base": {
-              "value": "$size.4",
+              "value": "$size.3-5",
               "type": "spacing",
               "description": "core"
             },
@@ -1631,7 +1631,7 @@
               "description": "core"
             },
             "xl": {
-              "value": "$size.6",
+              "value": "$size.5",
               "type": "spacing",
               "description": "core"
             }
@@ -1643,22 +1643,22 @@
               "description": "core"
             },
             "sm": {
-              "value": "7",
+              "value": "$size.1-5",
               "type": "spacing",
               "description": "core"
             },
             "base": {
-              "value": "10",
+              "value": "$size.2",
               "type": "spacing",
               "description": "core"
             },
             "lg": {
-              "value": "$size.4",
+              "value": "$size.3-5",
               "type": "spacing",
               "description": "core"
             },
             "xl": {
-              "value": "$size.4",
+              "value": "$size.3-5",
               "type": "spacing",
               "description": "core"
             }
@@ -1671,12 +1671,12 @@
             "description": "core"
           },
           "sm": {
-            "value": "$size.2",
+            "value": "$size.1-5",
             "type": "spacing",
             "description": "core"
           },
           "base": {
-            "value": "$size.2",
+            "value": "$size.1-5",
             "type": "spacing",
             "description": "core"
           },
